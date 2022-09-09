@@ -1,7 +1,7 @@
 # Link In Bio
 
 ## Get Started
-- [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository#cloning-a-repository) this repo into `~/workspace/foundations/inclass/`
+- [Clone](https://nss-evening-curriculum/client/08-clone-github-repos) this repo into `~/workspace/foundations/inclass/`
 - Make setup branch with `index.html, main.css, main.js` files
 - Change background color of `index.html` 
 - Add a console log in `main.js`
