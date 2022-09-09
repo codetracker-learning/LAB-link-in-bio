@@ -1,7 +1,7 @@
 # Link In Bio
 
 ## Get Started
-- Use Bootstrap block-buttons to build your landing page.
+- Use Bootstrap [block-buttons](https://getbootstrap.com/docs/5.1/components/buttons/#block-buttons) to build your landing page.
 - The page should be a static HTML Page with CSS.
 
 Here is an example:
